@@ -1,0 +1,10 @@
+azure-cli
+azure-cosmos==4.5.1
+azure-identity
+Flask 
+Flask-cors
+langchain
+openai==0.28.1
+semantic_kernel
+tiktoken
+azure-search-documents==11.4.0b

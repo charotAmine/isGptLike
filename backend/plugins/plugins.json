@@ -1,0 +1,16 @@
+[
+  {
+    "displayName": "Azure AI Search",
+    "description": "The plugin will request Search with the configured index",
+    "moduleName": "plugins.indexSearchPlugin.indexSearch",
+    "className": "IndexSearch",
+    "enable": false
+  },
+  {
+    "displayName": "SherlockPlugin",
+    "description": "This Plugin will help our detective sherlock to solve his mysteries",
+    "moduleName": "plugins.sherlockPlugin.sherlockSearch",
+    "className": "SherlockSearch",
+    "enable": true
+  }
+]
